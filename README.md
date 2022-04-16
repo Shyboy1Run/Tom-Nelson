@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shyboy1Run
-- 👀 I’m interested in HTML&Css,Python, C++,C and java
-- 🌱 I’m currently learning HTMl
+- 👀 I’m interested in HTML&Css,Python, C# and java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Professional programmers
 - 📫 How to reach me MYemail
 
